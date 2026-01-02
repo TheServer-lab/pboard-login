@@ -1,0 +1,5 @@
+{
+  "name": "purple-board-auth",
+  "main": "worker.js",
+  "compatibility_date": "2024-12-01"
+}
